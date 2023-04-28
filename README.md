@@ -1,5 +1,5 @@
-# Everest ![Everest network topology](https://user-images.githubusercontent.com/72334419/235166760-9c7ee571-ba9e-4042-90e7-c0c7423fd090.png)
-Hotel Network Design in Packet Tracer
+![Everest network topology](https://user-images.githubusercontent.com/72334419/235166760-9c7ee571-ba9e-4042-90e7-c0c7423fd090.png)
+# Everest Hotel Network Design in Packet Tracer
 Design and implement Vic Modern Hotel network. The hotel has three floors & each floor has department with VLANs as follows:
 
 <n>1st Floor:</n>
